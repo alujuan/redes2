@@ -15,6 +15,7 @@ p{
     align-items: center;
     justify-content: space-between;
     padding: 40px;
+    background-color: rgb(27, 155, 142);
 }
 
 .menu li{
@@ -51,3 +52,8 @@ h3 {
     font-size: 23px;
 }
 
+.localizacao {
+    background-color: rgb(27, 155, 142);
+    display: flex;
+    align-items: center;
+}

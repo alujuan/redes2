@@ -15,6 +15,7 @@ p{
     align-items: center;
     justify-content: space-between;
     padding: 40px;
+    background-color: rgb(27, 155, 142);
 }
 
 .menu li{
