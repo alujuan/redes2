@@ -1,0 +1,42 @@
+*{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient( #717e8a, #6e6b8b);
+    height: 100;
+    color: white;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu a{
+    color:  white;
+    padding: 5px 5px;
+    border-radius: 5px;
+    transition: 200ms;
+}
+
+.menu .ativo, header .menu a:hover{
+    color: black;
+}
+
+body, html{
+    height: 100%;
+    overflow: hidden;
+    
+    background-size: cover;
+}
+
+.l-form{
+    border-radius: 16px;
+    padding: 16px;
+}
+
+.i-form{
+    border-radius: 16px;
+    padding: 16px;
+    color: white;
+}
+
