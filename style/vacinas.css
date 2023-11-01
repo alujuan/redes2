@@ -50,7 +50,7 @@ h1{
     margin-left: 70px;
 }
 
-h3 {
+h2 {
     padding: 20px;
     text-align: center;
 }
@@ -59,18 +59,7 @@ h3 {
     font-size: 23px;
 }
 
-.forms {
-    text-align: center;
+img {
     margin: 40px;
-}
-
-.l-form{
-    border-radius: 16px;
-    padding: 16px;
-}
-
-.i-form{
-    border-radius: 16px;
-    padding: 16px;
-    color: rgb(0, 0, 0);
+    text-align: center;
 }
